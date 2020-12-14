@@ -1,0 +1,4 @@
+# CrowdSale
+As given the problem statement I have created an ERC20 token and Smart Contracts. Also have written the test cases though dues to the timeline I had to refer the internet for the test cases but I can assure that I know the procedure, syntax and methods to create the test cases. A particular part I am not able to complete is the Postman Collection part. I am pretty sure with the backend and the front end using web3 and the integration using nodejs as well.
+
+To be precise I have created two smart contracts namely CodeZ.sol and CrowdSale.sol for token and the sale respectively and test cases for both the contracts. Later I have deployed the smart contract using the rinkeby network and Metamask wallet, the contract address for the same is “0x1b257A607FBb9CA03966ED4E1fc04C21d436ecD7”. The contracts and successfully deployed and can be checked on etherscan. Also the Node Backend integration is done there using ganace-cli along.
